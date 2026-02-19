@@ -32,7 +32,7 @@ projecte-mvc/
 
 ## Funcionalitats
 
-- **Llistat de tasques** (Pas_a_pas)
+- **Llistat de tasques**
 - **FASE 1:** Formulari per crear tasques (títol, descripció, categoria)
 - **FASE 2:** Categories (Treball, Estudis), llistat de categories, relació amb tasques
 
