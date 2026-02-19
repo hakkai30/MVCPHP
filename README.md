@@ -1,4 +1,4 @@
-# Projecte MVC – Gestió de tasques (Pas_a_pas + U04EX01)
+# Projecte MVC – Gestió de tasques 
 
 Aplicació PHP amb patró **MVC**. Llistat i creació de tasques, amb entitat **Categories** relacionada.
 
